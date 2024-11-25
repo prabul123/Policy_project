@@ -7,10 +7,6 @@ class Demo
 		System.out.println(a+b);
 	}
 
-	sysout(hello);
-
-
-
 	int a=10;
 	int b=20;
 	int c=30;
